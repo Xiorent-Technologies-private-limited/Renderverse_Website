@@ -16,7 +16,7 @@ export default function Termsandconditions() {
           <strong>Effective Date:</strong> 15/07/2025
         </p>
         <p className="mb-2">
-          <strong>Company Name:</strong> Xiorent Technologies Private Limited
+          <strong>Company Name:</strong> Renderverse
         </p>
         <p className="mb-2">
           <strong>Registered Address:</strong> 10/10, Hindustan Kolkata, West Bengal, 700127, India
@@ -43,7 +43,7 @@ export default function Termsandconditions() {
         </Section>
 
         <Section title="Services Overview">
-          Xiorent Technologies offers services including but not limited to:
+          Renderverse offers services including but not limited to:
           <ul className="list-disc list-inside mt-2 space-y-1">
             <li>AI and automation solutions</li>
             <li>Blockchain development</li>
@@ -72,12 +72,12 @@ export default function Termsandconditions() {
 
         <Section title="Intellectual Property Rights">
           All intellectual property rights, trademarks, documentation, and intellectual property on our
-          platform are the exclusive property of Xiorent Technologies. Unauthorized use, reproduction, or
+          platform are the exclusive property of Renderverse. Unauthorized use, reproduction, or
           distribution is strictly prohibited without prior approval.
         </Section>
 
         <Section title="Limitation of Liability">
-          To the maximum extent permitted by law, Xiorent Technologies Private Limited shall not be
+          To the maximum extent permitted by law, Renderverse shall not be
           liable for any direct, indirect, incidental, or consequential damages arising out of your use of
           our products or services, including but not limited to loss of revenue, data, performance, or
           accuracy.

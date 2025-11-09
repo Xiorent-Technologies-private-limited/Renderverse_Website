@@ -20,10 +20,10 @@ const orbitron = Orbitron({
 });
 
 export const metadata: Metadata = {
-  title: "XioRent Technologies - Transforming Ideas Into Scalable Digital Products",
+  title: "Renderverse - Transforming Ideas Into Scalable Digital Products",
   description: "From advanced machine learning models to user-friendly tech applications, we provide state-of-the-art solutions for your digital transformation needs.",
   keywords: ["technology", "digital products", "machine learning", "software development", "scalable solutions", "AI", "tech consulting"],
-  authors: [{ name: "XioRent Technologies" }],
+  authors: [{ name: "Renderverse" }],
   viewport: "width=device-width, initial-scale=1",
 };
 

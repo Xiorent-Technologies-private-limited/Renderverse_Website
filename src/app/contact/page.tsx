@@ -121,7 +121,7 @@ export default function Page() {
                   WebkitTextFillColor: "transparent",
                 }}
               >
-                Xiorent Technologies Private Limited
+                Renderverse
               </h2>
             </div>
             {/* Address */}

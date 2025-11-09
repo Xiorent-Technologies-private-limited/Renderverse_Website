@@ -28,7 +28,7 @@ const HeroSection = () => {
             {/* Main Description */}
             <div className="space-y-6">
               <p className="text-gray-200 text-lg lg:text-xl leading-relaxed max-w-2xl">
-                At Xiorent Technologies, we deliver transformative solutions for businesses. Committed to innovation, 
+                At Renderverse, we deliver transformative solutions for businesses. Committed to innovation, 
                 we empower organizations to reimagine their future through technology. Our expertise includes AI, 
                 software development, blockchain, and IoT systems. We partner with startups and enterprises, 
                 providing scalable solutions that drive impact.

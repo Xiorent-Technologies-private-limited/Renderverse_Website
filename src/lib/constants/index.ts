@@ -1,8 +1,8 @@
 export const APP_CONFIG = {
-  name: "XioRent Technologies",
+  name: "Renderverse",
   description: "Transforming ideas into scalable digital products",
   version: "1.0.0",
-  author: "XioRent Technologies",
+  author: "Renderverse",
 } as const;
 
 export const API_ENDPOINTS = {

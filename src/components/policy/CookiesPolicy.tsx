@@ -25,7 +25,7 @@ const CookiePolicy = () => {
                     <p>
                         At{" "}
                         <span className="font-semibold">
-                            Xiorent Technologies Private Limited
+                            Renderverse
                         </span>{" "}
                         (“we”, “our”, or “us”), we use cookies and similar tracking
                         technologies on our website to improve your browsing experience,

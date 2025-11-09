@@ -48,7 +48,7 @@ const BusinessEthics = () => {
                 <div className="space-y-10 leading-relaxed text-gray-200">
                     <section>
                         <p>
-                            At <span className="font-semibold">Xiorent Technologies</span>, we
+                            At <span className="font-semibold">Renderverse</span>, we
                             are committed to conducting our business with the highest standards
                             of integrity, transparency, and accountability. Our Code of Business
                             Ethics serves as a guiding framework for every employee, partner,
@@ -161,7 +161,7 @@ const BusinessEthics = () => {
                         <p>
                             Our Code of Business Ethics is not just a document—it is a reflection
                             of who we are and how we choose to operate. By following these
-                            standards, Xiorent Technologies continues to establish itself as a
+                            standards, Renderverse continues to establish itself as a
                             role model for ethical, responsible, and value-driven conduct in the
                             technology industry.
                         </p>

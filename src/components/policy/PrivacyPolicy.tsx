@@ -14,7 +14,7 @@ const PrivacyPolicy = () => {
           <strong>Effective Date:</strong> 15/07/2025
         </p>
         <p className="mb-2">
-          <strong>Company Name:</strong> Xiorent Technologies Private Limited
+          <strong>Company Name:</strong> Renderverse
         </p>
         <p className="mb-2">
           <strong>Registered Address:</strong> 10/10, Hindustan Kolkata, West Bengal, 700127, India
@@ -32,7 +32,7 @@ const PrivacyPolicy = () => {
         {/* Intro */}
         <section>
           <p>
-            At <strong>Xiorent Technologies Private Limited</strong> ("we", "us",
+            At <strong>Renderverse</strong> ("we", "us",
             or "our"), we are committed to protecting the privacy and personal
             data of our users, clients, and visitors. This Privacy Policy outlines
             how we collect, use, disclose, and protect your information when you

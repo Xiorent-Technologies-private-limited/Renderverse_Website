@@ -71,7 +71,7 @@ const CompanyTeam = () => {
             {/* Description */}
             <div className="space-y-5 text-sm md:text-base leading-relaxed text-gray-300">
               <p>
-                Ananya Banerjee is the Technical Team Manager at Xiorent Technologies,
+                Ananya Banerjee is the Technical Team Manager at Renderverse,
                 leading cutting-edge projects in AI, automation, and software development. 
                 With a sharp eye for detail and a passion for innovation, she ensures seamless 
                 execution and drives technical excellence across the team.

@@ -70,7 +70,7 @@ const CompanyDirector = () => {
             <div className="space-y-5 text-sm md:text-base leading-relaxed text-gray-300">
               <p>
                 Shivam Goswami is the Director and Chief Executive Officer of
-                Xiorent Technologies Private Limited, a next-generation
+                Renderverse, a next-generation
                 technology company focused on driving digital innovation across
                 artificial intelligence, automation, blockchain, AR/VR, IoT, and
                 full-stack software development. He founded the company with a

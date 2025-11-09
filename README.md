@@ -1,4 +1,4 @@
-# XioRent Technologies - Digital Product Development Company
+# Renderverse - Digital Product Development Company
 
 A modern, scalable Next.js application showcasing our technology services and digital product development capabilities. Built with TypeScript, Tailwind CSS, and professional architecture patterns.
 
@@ -161,9 +161,9 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 
-For project inquiries and technology consulting, please contact XioRent Technologies.
+For project inquiries and technology consulting, please contact Renderverse.
 
-**Website**: [XioRent Technologies](https://xiorent.com) ..
+**Website**: [Renderverse](https://xiorent.com) ..
 **Email**: info@xiorent.com
 **Phone**: +1 (555) 123-4567
 
